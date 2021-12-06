@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminatmak&label=Profile%20views&color=0e75b6&style=flat" alt="aminatmak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminatmak" alt="aminatmak" /></a> </p>
-
 - 🔭 I recently finished working on [Veggielite](www.veggielite.fit)
 
 - 🌱 I’m currently learning **React, JavaScript**
