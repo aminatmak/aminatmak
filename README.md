@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminatmak" alt="aminatmak" /></a> </p>
 
+- 🔭 I recently finished working on [Veggielite](www.veggielite.fit)
+
 - 🌱 I’m currently learning **React, JavaScript**
 
 - 👨‍💻 All of my projects are available at [www.aminamak.com](www.aminamak.com)
@@ -21,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminatmak&show_icons=true&locale=en" alt="aminatmak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminatmak&" alt="aminatmak" /></p>
-
